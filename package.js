@@ -1,8 +1,8 @@
 Package.describe({
   name: 'perak:omlet',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Omlet chat API packaged for Meteor',
-  git: 'meteor-omlet',
+  git: 'https://github.com/perak/meteor-omlet.git',
   documentation: 'README.md'
 });
 
